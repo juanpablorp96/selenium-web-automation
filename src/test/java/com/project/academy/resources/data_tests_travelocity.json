@@ -1,0 +1,12 @@
+{
+  "dataSet": [
+    {
+      "flyingFrom": "LAS",
+      "flyingTo": "LAX",
+      "departureDay": "5",
+      "returnDay": "16",
+      "monthsInFuture": "2",
+      "sortByOptions": "Price|Departure|Arrival|Duration"
+    }
+  ]
+}
